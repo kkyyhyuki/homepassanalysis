@@ -1,0 +1,9 @@
+streamlit
+geopandas
+pandas
+numpy
+matplotlib
+reportlab
+fiona 
+shapely 
+Pillow 
